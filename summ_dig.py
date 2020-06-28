@@ -1,0 +1,5 @@
+user_numb = input('Введите число ')
+a = str(user_numb)+str(user_numb)
+b = a+str(user_numb)
+result = int(user_numb) + int(a)+int(b)
+print('не знаю как обозвать эту магию, но результат выполнения программы таков:', result)
