@@ -1,0 +1,4 @@
+sjtrudnik1 15000
+sotrudnik2 10000
+sotrudnik3 25000
+sotrudnik4 5000
